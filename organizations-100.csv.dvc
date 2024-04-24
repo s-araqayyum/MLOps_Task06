@@ -1,0 +1,5 @@
+outs:
+- md5: 8bd346fa0d2b7881b2d209745332ef8a
+  size: 13873
+  hash: md5
+  path: organizations-100.csv
